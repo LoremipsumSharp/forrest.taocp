@@ -1,0 +1,23 @@
+About the code
+==============
+
+The code are C and Python implementations of algorithms in TAOCP. I wrote them for the sake of learning, so they are not supposed to be elegant and are far from perfect. However, you may find it useful if you are learning TAOCP too.
+
+
+Before building the code
+========================
+
+Some code use Graphviz <http://www.graphviz.org/> to output figures. Before building or running them, you should:
+- either install Graphviz, which is recommended
+- or comment out the lines calling ``system(cmd)''
+
+You can also download sample figures outputted by the code here:
+http://code.google.com/p/forrest/downloads/
+
+
+About me
+========
+
+I am Forrest Yu. My Email is forrest.yu [AT] Gmail. Read more about me: http://forrestyu.net/
+
+
